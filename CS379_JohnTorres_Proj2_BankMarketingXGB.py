@@ -4,8 +4,9 @@ Created on Tue Jan 9 13:22:41 2024
 
 @author: John Torres
 Course: CS379 - Machine Learning
-Project 2: Bank Marketing Dataset Predictions with Gradient Boosted Tree
+Project 2: Bank Marketing Dataset - Term Deposit Predictions with Gradient Boosted Tree
 Supervised Algorithm: Gradient Boosted Tree
+Dataset: https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing
 """
 
 # Import pandas for data ingestion and modification.
